@@ -1,0 +1,127 @@
+[
+    {
+        "Breakfast": "Dark coffee with bread and scrambled eggs",
+        "Lunch": "Eguisi soup and plantain flour",
+        "Dinner": "spaghetti and fish sauce",
+        "Price": "7500"
+
+    },
+
+    {
+        "Breakfast": "Pap and bean cake",
+        "Lunch": "pounded yam and white soup",
+        "Dinner": "chicken and chips with ketchup",
+        "Price": "5800"
+
+    },
+
+    {
+        "Breakfast": "Toasted bread and hot chocolate",
+        "Lunch": "vegetable soup and wheat flour",
+        "Dinner": "Goat meat pepper soup and agidi",
+        "Price": "8000"
+    },
+
+
+    {
+        "Breakfast": "Fried plantain and egg sauce",
+        "Lunch": "Jollof Breadfruit with shrimps and pomangranate juice",
+        "Dinner":"Vegetable sauce and potatoes",
+        "Price": "7000"
+
+    },
+
+    {
+        "Breakfast": "Pancakes with mapple syrup toppings and orange juice",
+        "Lunch": "Oha soup with fufu",
+        "Dinner":"fried rice and salad",
+        "Price":"5000"
+        
+    },
+
+    {
+        "Breakfast": "Camomile tea and bread with margerine spread",
+        "Lunch": "Fisherman soup and wheat flour",
+        "Dinner":"plaintain porridge and fish",
+        "Price": "8500"
+
+    },
+
+
+    {
+        "Breakfast": "Fried eggs with hot dog and yam",
+        "Lunch": "Rice and chicken stew",
+        "Dinner":"Vegetable snail ",
+        "Price": "6000"
+
+    },
+
+    {
+        "Breakfast":"Cereals and blue berries",
+        "Lunch": "Beans and white bread",
+        "Dinner": "coconut rice and grilled fish",
+        "Price": "7000"
+
+    },
+
+    {
+        "Breakfast":"Toasted bread with sardine and creamy coffee",
+        "Lunch": "Afang soup with beef and eba",
+        "Dinner":"jollof rice and fried turkey",
+        "Price":"6500"
+    },
+
+    {
+        "Breakfast":"Boiled plantain with tomatoe sauce",
+        "Lunch": "Beans and yam",
+        "Dinner":"fruit salad and sparkling water",
+        "Price":"5000"
+    },
+
+    {
+        "Breakfast":"Dark coffee with bread and scrambled eggs",
+        "Lunch": "vegetable soup and wheat flour",
+        "Dinner":"coconut rice and grilled fish",
+        "Price":"8000"
+
+    },
+
+    {
+        "Breakfast":"Custard and pancake",
+        "Lunch":"okro soup with crocker fish and pounded yam",
+        "Dinner":"french fries",
+        "Price":"6500"
+    },
+
+    {
+        "Breakfast":"instant noodles and fried eggs",
+        "Lunch":"yam and beans pottage",
+        "Dinner":"Unripe plantain with garden egg sauce",
+        "Price":"5700"
+
+    },
+
+    {
+        "Breakfast":"Beverage and Bread",
+        "Lunch":"Bitter leaf soup and fufu flour",
+        "Dinner":"Pasta and stew",
+        "Price":"8000"
+    },
+
+
+    {
+        "Breakfast":"Ice tea and pancakes ",
+        "Lunch":"Pottage Breadfuit and orange juice",
+        "Dinner":"Catfish pepper soup and rice",
+        "Price":"7000"
+    },
+
+    {
+        "Breakfast":"pap with soy-bean powder and Bread",
+        "Lunch":"Ogbono soup and eba",
+        "Dinner":"fried yam and tomatoe sauce",
+        "Price": "5000"
+    }
+  
+]
+
